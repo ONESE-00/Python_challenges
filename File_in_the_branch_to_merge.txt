@@ -1,0 +1,7 @@
+WHAT TO DO
+Create a new branch ..branch_to_merge
+create an entirely new file in the branch_to_merge
+stage file 
+commit file
+push changes to the remote repo and branch 
+switch to the main branch merge the changes
